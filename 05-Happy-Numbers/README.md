@@ -29,5 +29,5 @@ Happy-Numbers/
 ## Running the Code
 
 ```python
-python src/number_guesser.py
+python src/main.py
 ```
